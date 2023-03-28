@@ -1,0 +1,91 @@
+*{
+    margin-top: 0;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+}
+a{
+    color: rgb(127, 5, 5);
+    text-decoration: none;
+}
+
+.menubutton{
+    background-color: rgb(230, 230, 230);
+    border: 2px solid rgb(127, 5, 5);
+    margin: 15px 8px;
+    width: 120px;
+    height: 40px;
+    border-radius: 7px;
+}
+
+.menubutton:hover {
+    background-color: rgb(185, 164, 164);
+}
+.menu{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2{
+    color: rgb(127, 5, 5);
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color: rgb(1, 2, 15);
+    font-size: 22px;
+
+}
+.Presentacion{
+    width: 298px;
+    height: 354px;
+}
+
+.menucontenido{
+    text-align: left;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    font-size: 20px;
+}
+
+.contenido{
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;   
+}
+
+.textocontenido{
+    text-align: left;
+    margin-right: 15px;
+    margin-left: 20px;
+}
+
+.contenedorprin{
+    display: flex;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.solotexto{
+    margin-left: 20px;
+    margin-right: 20px;
+}
